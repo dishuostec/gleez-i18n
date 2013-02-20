@@ -6,10 +6,6 @@ $file_count = 0;
 $new_string = 0;
 $i18n = array();
 
-if (file_exists(I18N_FILE)) {
-  $i18n = include I18N_FILE;
-}
-
 get_from_module('gleez');
 get_from_module('user');
 
