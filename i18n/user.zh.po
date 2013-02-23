@@ -1,0 +1,387 @@
+msgid ":nick joined."
+msgstr ":nick 加入"
+
+msgid ":prov account"
+msgstr ":prov 帐户"
+
+msgid ":site Account"
+msgstr ":site 帐号"
+
+msgid "About"
+msgstr "关于我们"
+
+msgid "Actions"
+msgstr "操作"
+
+msgid "Active"
+msgstr "激活"
+
+msgid "Activity"
+msgstr "活动 "
+
+msgid "Add New Role"
+msgstr "添加新角色"
+
+msgid "Add New User"
+msgstr "添加新用户"
+
+msgid "Add Role"
+msgstr "添加角色"
+
+msgid "Add User"
+msgstr "添加用户"
+
+msgid "Age"
+msgstr "年龄"
+
+msgid "Already have an account?"
+msgstr "已经有一个帐户？"
+
+msgid "Apply password and go to signin form"
+msgstr "应用密码密码并跳转到登录表单"
+
+msgid "Attached identity :nick (:provider) to your account."
+msgstr "身份:nick（:provider）已附加到您的帐户。"
+
+msgid "Attempt to access non-existent user"
+msgstr "试图访问不存在的用户"
+
+msgid "Birthday"
+msgstr "生日"
+
+msgid "Birthday:"
+msgstr "生日："
+
+msgid "Blocked"
+msgstr "禁用"
+
+msgid "Change Password"
+msgstr "修改密码"
+
+msgid "Change Picture"
+msgstr "更改图片"
+
+msgid "Choose a new password"
+msgstr "选择一个新的密码"
+
+msgid "Choose how you would like to sign in?"
+msgstr "选择您想如何登录？"
+
+msgid "Confirm Password:"
+msgstr "确认密码："
+
+msgid "Coudn't login. Either you deny or network error!"
+msgstr "不能登录。被拒绝或网络错误！"
+
+msgid "Create One."
+msgstr "创建一个"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Delete :title"
+msgstr "删除:title"
+
+msgid "Delete Role"
+msgstr "删除角色"
+
+msgid "Delete User"
+msgstr "删除用户"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Display Name"
+msgstr "显示名称"
+
+msgid "Display Name:"
+msgstr "显示名称："
+
+msgid "Display Name: <small>(Public)</small>"
+msgstr "显示名称：<small>（公共）</small>"
+
+msgid "E-mail: <small>(Private)</small>"
+msgstr "电子邮件：<small>（私人）</small>"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Edit Account"
+msgstr "编辑帐户"
+
+msgid "Edit Role"
+msgstr "编辑角色"
+
+msgid "Edit role :name"
+msgstr "编辑角色:name"
+
+msgid "Edit User"
+msgstr "编辑用户"
+
+msgid "Edit User %name"
+msgstr "编辑用户%name"
+
+msgid "Edit | Delete"
+msgstr "编辑|删除"
+
+msgid "Email"
+msgstr "电子邮件"
+
+msgid "Fast, safe & secure"
+msgstr "快速，安全和可靠"
+
+msgid "Fast, safe & secure way!"
+msgstr "快速，安全和可靠的方式！"
+
+msgid "Female"
+msgstr "女性"
+
+msgid "Fill in the information below to register"
+msgstr "填写以下信息注册"
+
+msgid "Fill in the information below to register."
+msgstr "请填写下面的信息注册。"
+
+msgid "First Visit"
+msgstr "第一次造访"
+
+msgid "Forgot Password?"
+msgstr "忘记密码？"
+
+msgid "Gender"
+msgstr "性别"
+
+msgid "Gender: "
+msgstr "性别："
+
+msgid "Gender: <small>(Private)</small>"
+msgstr "性别：<small>（私人）</small>"
+
+msgid "Gleez - Account details for :name (approved)"
+msgstr "Gleez  - 帐户的详细信息 :name（批准）"
+
+msgid "Gleez - Reset password for :name"
+msgstr "Gleez  - 重设密码 :name"
+
+msgid "Gleez - Validate account details for :name"
+msgstr "Gleez  - 验证帐户的详细资料 :name"
+
+msgid "Gleez CMS allows users to register, login, log out, maintain user profiles, etc. Users of the site may not use their own names to post content until they have signed up for a user account."
+msgstr "Gleez CMS允许用户注册，登录，注销，维护用户配置文件，该网站的用户可能无法使用自己的名字发布的内容，直到他们已经签署了一个用户帐户。"
+
+msgid "If you dont use any of these services, you can create an account."
+msgstr "如果你不使用这些服务，你可以创建一个帐户。"
+
+msgid "Joined"
+msgstr "注册"
+
+msgid "Last Active"
+msgstr "最后上线"
+
+msgid "Last Visit"
+msgstr "最近访问"
+
+msgid "Log In"
+msgstr "登录"
+
+msgid "Login"
+msgstr "登录"
+
+msgid "Login: %title Successful!"
+msgstr "登录：%title 成功！"
+
+msgid "Login with :pro"
+msgstr "使用:pro登录"
+
+msgid "Login with :provider"
+msgstr "使用:provider登录"
+
+msgid "Login with any of these providers:"
+msgstr "使用这些账号登录："
+
+msgid "Mail:"
+msgstr "邮件"
+
+msgid "Male"
+msgstr "男性"
+
+msgid "My Account"
+msgstr "我的帐户"
+
+msgid "Name"
+msgstr "名称"
+
+msgid "Never"
+msgstr "永不"
+
+msgid "No"
+msgstr "取消"
+
+msgid "Old Password"
+msgstr "旧密码"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Password:"
+msgstr "密码："
+
+msgid "Password or username is incorrect."
+msgstr "密码或用户名是不正确的。"
+
+msgid "Permission"
+msgstr "权限"
+
+msgid "Permissions"
+msgstr "权限"
+
+msgid "Permissions: saved successful!"
+msgstr "权限：保存成功！"
+
+msgid "Permissions let you control what users can do on your site. Each user role (defined on the :user-roles) has its own set of permissions. Permissions also allow trusted users to share the administrative burden of running a busy site."
+msgstr "权限让你控制用户可以在您的网站上干什么。每个用户角色（在:user-roles中定义）有自己的一套权限。权限还允许受信任的用户共享一个繁忙网站的管理负担。"
+
+msgid "Photo:"
+msgstr "照片；"
+
+msgid "Profile %title"
+msgstr "资料 %title"
+
+msgid "Register new account"
+msgstr "注册新帐号"
+
+msgid "Reset password"
+msgstr "重置密码"
+
+msgid "Role"
+msgstr "角色"
+
+msgid "Role: :name deleted successful!"
+msgstr "角色：:name删除成功！"
+
+msgid "Role: :name saved successful!"
+msgstr "角色：:name保存成功！"
+
+msgid "Role: doesn't exists!"
+msgstr "角色：不存在！"
+
+msgid "Roles"
+msgstr "角色"
+
+msgid "Roles allow you to fine tune the security and administration of Gleez CMS. A role defines a group of users that have certain privileges as defined in user permissions. Examples of roles include: anonymous user, authenticated user, moderator, administrator and so on. In this area you will define the role names of the various roles."
+msgstr "角色允许您细微的调节Gleez CMS的安全和管理。角色定义了一组具有某些特权的用户所定义的用户权限。角色的例子包括：匿名用户，身份验证的用户，版主，管理员等。在这个区域中，您将定义了各种角色的角色名。"
+
+msgid "Save Permissions"
+msgstr "保存权限"
+
+msgid "Security:"
+msgstr "安全："
+
+msgid "Sign in with :provider"
+msgstr "使用:provider登录"
+
+msgid "Sign in with Facebook"
+msgstr "使用Facebook登录"
+
+msgid "Sign in with Google"
+msgstr "使用Google账号登录"
+
+msgid "Sign in with Windows Live"
+msgstr "使用Windows Live账号登录"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Stay Signed in"
+msgstr "保持登录"
+
+msgid "Submit"
+msgstr "提交"
+
+msgid "Thank you :nick for registering via (:provider)."
+msgstr ":nick，谢谢你通过（:provider）注册。"
+
+msgid "There are no Users."
+msgstr "没有用户。"
+
+msgid "The username must be at least :param2 characters long."
+msgstr "用户名必须至少为:param2个字符长。"
+
+msgid "The username must be less than :param2 characters long."
+msgstr "用户名必须小于:param2个字符长。"
+
+msgid "The values you entered in the password fields did not match."
+msgstr "您输入的密码字段中的值不匹配。"
+
+msgid "This account is blocked"
+msgstr "该帐户已被禁用"
+
+msgid "This email already exists."
+msgstr "此电子邮件已经存在。"
+
+msgid "This email dosen't exists."
+msgstr "此邮件不存在。"
+
+msgid "This username already exists."
+msgstr "该用户名已经存在。"
+
+msgid "This username is not available."
+msgstr "该用户名不可用。"
+
+msgid "This username or password is not valid."
+msgstr "该用户名或密码无效。"
+
+msgid "Update Profile"
+msgstr "更新简介"
+
+msgid "Upload Photo"
+msgstr "上传照片"
+
+msgid "User: :name deleted successful!"
+msgstr "用户：:name删除成功！"
+
+msgid "User: can't delete system user"
+msgstr "用户名：不能删除系统用户"
+
+msgid "User: doesn't exists!"
+msgstr "用户名：不存在！"
+
+msgid "Username"
+msgstr "用户名"
+
+msgid "Username:"
+msgstr "用户名："
+
+msgid "User Registration"
+msgstr "用户注册"
+
+msgid "Users"
+msgstr "用户"
+
+msgid "Visits"
+msgstr "访问次数"
+
+msgid "Warning: Give to trusted roles only; this permission has security implications."
+msgstr "警告：只授予受信任的角色，此权限有安全隐患。"
+
+msgid "Welcome back, :nick logged in via (:provider)."
+msgstr ":nick，欢迎回来，通过（:provider）登录。"
+
+msgid "Yes"
+msgstr "确认"
+
+msgid "You can sign in from any of the following services:"
+msgstr "您可以登录以下任何服务："
+
+msgid "You must provide an email address."
+msgstr "您必须提供一个电子邮件地址。"
+
+msgid "You must provide a password."
+msgstr "您必须提供一个密码。"
+
+msgid "You must provide a username."
+msgstr "您必须提供一个用户名。"
+
+msgid "You signed in via :provider. Yay!"
+msgstr "您在通过:provider注册。太棒了！"
+

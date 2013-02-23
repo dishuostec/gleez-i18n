@@ -28,7 +28,7 @@ function get_from_module($module)
   walk(SYSPATH."modules/$module/views");
   walk(SYSPATH."modules/$module/classes");
 
-  ksort($i18n);
+  uksort($i18n, 'strnatcasecmp');
 
   if ($new_string) {
     file_put_contents($i18n_file, '<?php defined("SYSPATH") OR die("No direct script access.");'."\n".'return '.var_export($i18n, true).';');
@@ -74,7 +74,13 @@ function walk($path)
 
 function parse_file($data)
 {
-  preg_match_all('/\b__\(\'(\\\\.|[^\\\\\']+)\'\)/', $data, $match, PREG_PATTERN_ORDER);
+  preg_match_all('/\b__\(\'((?:\\\\.|[^\\\\\']+)+)\'/', $data, $match, PREG_PATTERN_ORDER);
+
+  foreach ($match[1] as $string) {
+    add_to_i18n ($string);
+  }
+
+  preg_match_all('/\b__\("((?:\\\\.|[^\\\\"]+)+)"/', $data, $match, PREG_PATTERN_ORDER);
 
   foreach ($match[1] as $string) {
     add_to_i18n ($string);
@@ -87,7 +93,7 @@ function add_to_i18n ($string) {
   if (empty($string) || array_key_exists($string, $i18n) || !preg_match('/[a-zA-Z]/', $string)) {
     return;
   }
-
+  $string = preg_replace('/\\\\(.)/', '$1', $string);
   $new_string++;
   $i18n[$string] = '';
 }

@@ -1,0 +1,1424 @@
+msgid "(:count) Comments"
+msgstr "（:count）评论"
+
+msgid "(No subject)"
+msgstr "（无主题）"
+
+msgid " (not verified)"
+msgstr "（未验证）"
+
+msgid "403 - Access Denied"
+msgstr "403 - 访问被拒绝"
+
+msgid "404 - Page not found"
+msgstr "404 - 页面不存在"
+
+msgid ":pcre has not been compiled with Unicode property support."
+msgstr ":pcre并没有被编译支持Unicode属性。"
+
+msgid ":pcre has not been compiled with UTF-8 support."
+msgstr ":pcre并没有被编译支持UTF-8。"
+
+msgid ":tag - Recent updates"
+msgstr ":tag - 最近更新"
+
+msgid ":term"
+msgstr ":term"
+
+msgid ":term - Recent updates"
+msgstr ":term - 最近更新"
+
+msgid ":title"
+msgstr ":title"
+
+msgid ":user says:"
+msgstr ":user说："
+
+msgid "Actions"
+msgstr "操作"
+
+msgid "add :object"
+msgstr "添加:object"
+
+msgid "Add Alias"
+msgstr "添加别名"
+
+msgid "Add Item for %menu"
+msgstr "给%menu添加项目"
+
+msgid "Add Link"
+msgstr "添加链接"
+
+msgid "Add Menu"
+msgstr "添加菜单"
+
+msgid "Add New Item"
+msgstr "添加新项"
+
+msgid "Add new menus to your site, edit existing menus, and rename and reorganize menu links."
+msgstr "给您的网站添加新的菜单，编辑现有的菜单，重新命名与重组菜单链接。"
+
+msgid "Add New Tag"
+msgstr "添加新标签"
+
+msgid "Add New Term"
+msgstr "添加新术语"
+
+msgid "Add New Vocabulary"
+msgstr "添加新词汇"
+
+msgid "Add Page"
+msgstr "添加页面"
+
+msgid "Adds Initialcaps"
+msgstr "首字母大写"
+
+msgid "Add Tag"
+msgstr "添加标签"
+
+msgid "Add Term"
+msgstr "添加术语"
+
+msgid "Add Term for %vocab"
+msgstr "给%vocab添加术语"
+
+msgid "Add Vocab"
+msgstr "添加单词本"
+
+msgid "Add Widget"
+msgstr "新增部件"
+
+msgid "Add widget"
+msgstr "新增部件"
+
+msgid "Administer"
+msgstr "管理"
+
+msgid "admin password"
+msgstr "管理员密码"
+
+msgid "Admin Theme"
+msgstr "管理主题"
+
+msgid "Alias"
+msgstr "别名"
+
+msgid "Alias: %name saved successful!"
+msgstr "别名：%name保存成功！"
+
+msgid "Alias: %site_url"
+msgstr "别名：%site_url"
+
+msgid "Alias: :name deleted successful!"
+msgstr "别名：:name删除成功！"
+
+msgid "Alias: doesn't exists!"
+msgstr "别名：不存在！"
+
+msgid "Allow anonymous commenting (with contact information)"
+msgstr "允许匿名评论（带联系信息）"
+
+msgid "All pages except those listed"
+msgstr "除了这些列出的页面"
+
+msgid "All roles may use this format"
+msgstr "所有角色都可以使用这种格式"
+
+msgid "An alias defines a different name for an existing URL path - for example, the alias 'about' for the URL path 'page/1'. A URL path can have multiple aliases."
+msgstr "一个别名给现有的URL路径定义一个不同的名称，例如URL路径“page/1”的别名“about”。一个URL路径可以有多个别名。"
+
+msgid "An error occured deleting menu item :term."
+msgstr "删除菜单项:term时发生错误。"
+
+msgid "An error occured deleting term :term."
+msgstr "删除术语:term时发生错误。"
+
+msgid "An error occurred while attempting to render the page!"
+msgstr "渲染页面时发生错误！"
+
+msgid "Application Directory"
+msgstr "应用程序目录"
+
+msgid "Apply"
+msgstr "应用"
+
+msgid "Approved"
+msgstr "已批准"
+
+msgid "Archive"
+msgstr "存档"
+
+msgid "arguments"
+msgstr "参数"
+
+msgid "A text format contains filters that change the user input, for example stripping out malicious HTML or making URLs clickable. Filters are executed from top to bottom and the order is important, since one filter may prevent another filter from doing its job. <em>For example, when URLs are converted into links before disallowed HTML tags are removed, all links may be removed. When this happens, the order of filters may need to be re-arranged.</em>"
+msgstr "一个文本格式包含用于改变用户输入内容的过滤器，例如去除恶意的HTML或使URL可点击。过滤器从上到下的执行顺序是很重要的，因为一个过滤器，可以防止其他的过滤器做它的工作。<em>例如，在URL被转换成链接之前，所有不允许使用HTML标签会被移除，所有的链接也会被删除。当发生这种情况时，可能需要重新安排过滤器的顺序。</em>"
+
+msgid "Attempt to access disabled feature"
+msgstr "尝试访问禁用的功能"
+
+msgid "Author"
+msgstr "作者"
+
+msgid "Author:"
+msgstr "作者："
+
+msgid "Before you start using it..."
+msgstr "在您开始使用之前..."
+
+msgid "Blog"
+msgstr "博客"
+
+msgid "Book"
+msgstr "书籍"
+
+msgid "Bulk Actions"
+msgstr "批量操作"
+
+msgid "Cache Directory"
+msgstr "缓存目录"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Categories:"
+msgstr "类别："
+
+msgid "Category"
+msgstr "类别"
+
+msgid "Character Type (CTYPE)"
+msgstr "字符类型（CTYPE）"
+
+msgid "Code:"
+msgstr "代码："
+
+msgid "Comment"
+msgstr "评论"
+
+msgid "Comment: :title deleted successful!"
+msgstr "评论：:title删除成功！"
+
+msgid "Comment: doesn't exists!"
+msgstr "评论：不存在！"
+
+msgid "Comment :id"
+msgstr "评论:id"
+
+msgid "Comment has been updated."
+msgstr "评论已被更新。"
+
+msgid "Comment Order : "
+msgstr "评论顺序："
+
+msgid "Comments"
+msgstr "评论"
+
+msgid "Comments:"
+msgstr "评论："
+
+msgid "Comments per page : "
+msgstr "每页评论数："
+
+msgid "Comments should be displayed with the older/new comments at the top of each page"
+msgstr "在每个评论页面的顶部应显示旧的还是新的评论"
+
+msgid "Config Directory"
+msgstr "配置目录"
+
+msgid "Configure"
+msgstr "配置"
+
+msgid "Configure :name"
+msgstr "配置:name"
+
+msgid "Content:"
+msgstr "内容："
+
+msgid "Continue"
+msgstr "继续"
+
+msgid "Convert accented characters"
+msgstr "转换重音字符"
+
+msgid "Convert Fractions"
+msgstr "转换分数"
+
+msgid "Convert line breaks into HTML"
+msgstr "换行符转换成HTML"
+
+msgid "Convert Ordinals"
+msgstr "转换序数"
+
+msgid "Convert to @blog"
+msgstr "转换为@forum"
+
+msgid "Convert to @forum"
+msgstr "转换为@forum"
+
+msgid "Convert to @page"
+msgstr "转换为@page"
+
+msgid "Convert URLs into links"
+msgstr "转换URL为链接"
+
+msgid "Correct faulty and chopped off HTML"
+msgstr "纠正错误的HTML标签"
+
+msgid "Couldn't create application/config/database.php"
+msgstr "无法创建 application/config/database.php"
+
+msgid "Could not connect to host"
+msgstr "无法连接到主机"
+
+msgid "Could not find the host"
+msgstr "找不到主机"
+
+msgid "Could not select the database"
+msgstr "无法选择数据库"
+
+msgid "Created"
+msgstr "创建时间"
+
+msgid "Customize - :modules_url to add cool features!"
+msgstr "自定义 -  :modules_url添加很酷的功能！"
+
+msgid "Dang...  Access Denied!"
+msgstr "哎呦...访问被拒绝！"
+
+msgid "Dang...  Page not found!"
+msgstr "哎呦...页面未找到！"
+
+msgid "Dang...  Something went wrong!"
+msgstr "哎呦...出事了！"
+
+msgid "Database"
+msgstr "数据库"
+
+msgid "Database Configuration"
+msgstr "数据库配置"
+
+msgid "Database Name"
+msgstr "数据库名称"
+
+msgid "Date:"
+msgstr "日期："
+
+msgid "Date Format"
+msgstr "日期格式"
+
+msgid "Date Time Format"
+msgstr "日期时间格式"
+
+msgid "Default Page Status:"
+msgstr "默认页面状态："
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Delete :title"
+msgstr "删除:title"
+
+msgid "Delete Alias"
+msgstr "删除别名"
+
+msgid "Delete Alias :title"
+msgstr "删除别名:title"
+
+msgid "Delete Comment"
+msgstr "删除评论"
+
+msgid "Delete Comments"
+msgstr "删除评论"
+
+msgid "Delete Item"
+msgstr "删除项目"
+
+msgid "Delete Menu"
+msgstr "删除菜单"
+
+msgid "Delete Menu :title"
+msgstr "删除菜单:title"
+
+msgid "Delete Menu Item :name"
+msgstr "删除菜单项:name"
+
+msgid "Delete Pages"
+msgstr "删除页面"
+
+msgid "Delete Tag"
+msgstr "删除标签"
+
+msgid "Delete Tag :title"
+msgstr "删除标签:title"
+
+msgid "Delete Taxonomy :title"
+msgstr "删除分类:title"
+
+msgid "Delete Term"
+msgstr "删除术语"
+
+msgid "Delete Term :name"
+msgstr "删除方式:name"
+
+msgid "Delete the selected comments"
+msgstr "删除所选择的评论"
+
+msgid "Delete Vocab"
+msgstr "删除单词本"
+
+msgid "Demote from front page"
+msgstr "从头版降级"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Description:"
+msgstr "描述："
+
+msgid "Did something go wrong? Try the :github."
+msgstr "有什么出错了？试试 :github。"
+
+msgid "Disabled"
+msgstr "禁用"
+
+msgid "Discussion:"
+msgstr "讨论："
+
+msgid "Display any HTML as plain text"
+msgstr "以纯文本格式显示任何HTML"
+
+msgid "Donate"
+msgstr "捐赠"
+
+msgid "Draft"
+msgstr "草稿"
+
+msgid "E-mail address"
+msgstr "电子邮件地址"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Edit ':widget' widget"
+msgstr "编辑“:widget”部件"
+
+msgid "Edit Alias"
+msgstr "编辑别名"
+
+msgid "Edit Alias %name"
+msgstr "编辑别名%name"
+
+msgid "Edit Comment"
+msgstr "编辑评论"
+
+msgid "Edit Item"
+msgstr "编辑项目"
+
+msgid "Edit Item :name"
+msgstr "编辑项目:name"
+
+msgid "Edit Menu"
+msgstr "编辑菜单"
+
+msgid "Edit Tag"
+msgstr "编辑标签"
+
+msgid "Edit Tag %name"
+msgstr "编辑标签 :name"
+
+msgid "Edit Term"
+msgstr "编辑术语"
+
+msgid "Edit Term :name"
+msgstr "编辑术语:name"
+
+msgid "Edit Vocab"
+msgstr "编辑单词本"
+
+msgid "Email"
+msgstr "电子邮件"
+
+msgid "Enable authors"
+msgstr "启用作者"
+
+msgid "Enable book support"
+msgstr "启用书籍支持"
+
+msgid "Enable captcha"
+msgstr "启用验证码"
+
+msgid "Enable Category"
+msgstr "启用类别"
+
+msgid "Enable comments"
+msgstr "启用评论"
+
+msgid "Enabled"
+msgstr "启用"
+
+msgid "Enabled:"
+msgstr "已启用："
+
+msgid "Enable excerpt"
+msgstr "启用摘要"
+
+msgid "Enable tag cloud"
+msgstr "启用标签云（tag cloud）"
+
+msgid "Enter the path you wish to create the alias for, followed by the name of the new alias."
+msgstr "在新的别名后输入你想创建别名的路径。"
+
+msgid "Enter title here"
+msgstr "在这里输入标题"
+
+msgid "Environment"
+msgstr "环境"
+
+msgid "Error"
+msgstr "错误"
+
+msgid "Excerpt:"
+msgstr "摘录："
+
+msgid "Existing path: %site_url"
+msgstr "现有的路径%site_url"
+
+msgid "Favicon"
+msgstr "网站图标"
+
+msgid "Filter callback :class for :filter"
+msgstr "过滤器:filter的回调:class"
+
+msgid "Filters Enabled"
+msgstr "过滤器启用"
+
+msgid "Finish"
+msgstr "完成"
+
+msgid "First"
+msgstr "首页"
+
+msgid "Flat list - collapsed"
+msgstr "平板式列表 - 折叠"
+
+msgid "Flat list - expanded"
+msgstr "平板式列表 - 展开"
+
+msgid "Fortunately only for a short while. No need to scream, things are under control. Just doing a bit of maintenance."
+msgstr "幸运的是，只需很短的一段时间。不要尖叫，一切尽在掌握中。维护一下下。"
+
+msgid "Forum"
+msgstr "论坛"
+
+msgid "Friday"
+msgstr "星期五"
+
+msgid "Front page"
+msgstr "头版"
+
+msgid "GD Enabled"
+msgstr "启用GD"
+
+msgid "General Settings"
+msgstr "通用设定"
+
+msgid "General Settings - choose your :settings_url."
+msgstr "常规设置 - 选择:settings_url."
+
+msgid "Gleez CMS"
+msgstr "Gleez CMS"
+
+msgid "Gleez CMS requires a MySQL database, but PHP doesn't have either the :mysql or the :mysqli extension."
+msgstr "Gleez CMS需要一个MySQL数据库，但是PHP没有:mysql或:mysqli扩展。"
+
+msgid "Gleez CMS requires PHP 5.3 or newer, this version is :php_version."
+msgstr "Gleez CMS需要PHP 5.3或更高版本，当前版本是:php_version。"
+
+msgid "Gleez Installer"
+msgstr "Gleez安装工具"
+
+msgid "Gleez may not work correctly with your environment."
+msgstr "Gleez可能无法在您的环境正常工作。"
+
+msgid "Gleez requires :gd v2 for the Image class."
+msgstr "Gleez：:gd v2 的图片类。"
+
+msgid "Gleez requires at least MySQL version 5.0.0. You're using version :version"
+msgstr "Gleez至少需要MySQL版本5.0.0。你使用的版本:version"
+
+msgid "Gleez Version "
+msgstr "Gleez版本"
+
+msgid "Hide"
+msgstr "隐藏"
+
+msgid "Host"
+msgstr "主机"
+
+msgid "Host Name "
+msgstr "主机名"
+
+msgid "Icon:"
+msgstr "图标："
+
+msgid "Iconv Extension"
+msgstr "iconv扩展"
+
+msgid "If you use Gleez, we ask that you donate to ensure future development is possible."
+msgstr "如果您使用Gleez的，我们请您捐赠，以确保未来能够发展。"
+
+msgid "Included files"
+msgstr "包含的文件"
+
+msgid "Innovate IT"
+msgstr "创新IT"
+
+msgid "Install"
+msgstr "安装"
+
+msgid "Installed"
+msgstr "已安装"
+
+msgid "Installing Gleez is very easy. We just need to know how to talk to your MySQL database, and we need a place to store config on your web host."
+msgstr "安装Gleez是很容易的。我们只需要知道如何与你的MySQL数据库通讯，我们需要您的虚拟主机上的一个地方来存储配置。"
+
+msgid "Items for %vocab"
+msgstr "%vocab的项目"
+
+msgid "JavaScript Object Notation (JSON)"
+msgstr "JavaScript对象符号（JSON）"
+
+msgid "Last"
+msgstr "尾页"
+
+msgid "Leave a Comment"
+msgstr "发表评论"
+
+msgid "Limit allowed HTML tags"
+msgstr "限制允许的HTML标签"
+
+msgid "Link:"
+msgstr "链接："
+
+msgid "List"
+msgstr "列表"
+
+msgid "List Links"
+msgstr "链接列表"
+
+msgid "List Terms"
+msgstr "术语列表"
+
+msgid "Load Average "
+msgstr "平均负载"
+
+msgid "Loaded extensions"
+msgstr "加载的扩展"
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "Maintenance Mode"
+msgstr "维护模式"
+
+msgid "Make sticky"
+msgstr "置顶"
+
+msgid "Make sure this folder writable by the webserver, or 777 permissions on this folder."
+msgstr "请确保此文件夹可被Web服务器写入，或者文件夹权限为777。"
+
+msgid "Manual Offsets"
+msgstr "手动设置"
+
+msgid "Mark Selected Comments as Spam"
+msgstr "将选定的评论标记为垃圾"
+
+msgid "Max filesize of :max exceeded."
+msgstr "超过最大文件尺寸:max。"
+
+msgid "Mbstring Not Overloaded"
+msgstr "mbstring未重载"
+
+msgid "Menu: %name saved successful!"
+msgstr "菜单：%name保存成功！"
+
+msgid "Menu: :name deleted successful!"
+msgstr "菜单：:name删除成功！"
+
+msgid "Menu: doesn't exists!"
+msgstr "菜单：不存在！"
+
+msgid "Menu Item: %name saved successful!"
+msgstr "菜单项：%name保存成功！"
+
+msgid "Menu Item: %name updated successful!"
+msgstr "菜单项：%name更新成功！"
+
+msgid "Menu Item: :name deleted successful!"
+msgstr "菜单项：:name 删除成功！"
+
+msgid "Menu Items order could not be saved."
+msgstr "菜单项顺序无法保存。"
+
+msgid "Menu Items order has been saved."
+msgstr "菜单项顺序已保存。"
+
+msgid "Menus"
+msgstr "菜单"
+
+msgid "Message:"
+msgstr "消息："
+
+msgid "Mission"
+msgstr "任务"
+
+msgid "Modules"
+msgstr "模块"
+
+msgid "Modules Directory"
+msgstr "模块目录"
+
+msgid "Monday"
+msgstr "星期一"
+
+msgid "Move Links to end of the block"
+msgstr "将链接移到块尾"
+
+msgid "Name"
+msgstr "姓名"
+
+msgid "Name:"
+msgstr "姓名："
+
+msgid "Neither :request_uri, :php_self, or :path_info is available"
+msgstr ":request_uri、:php_self和:path_info都不可用"
+
+msgid "Newer"
+msgstr "较新的"
+
+msgid "Next"
+msgstr "下一步"
+
+msgid "No"
+msgstr "取消"
+
+msgid "No Comments!"
+msgstr "没有评论！"
+
+msgid "No items selected."
+msgstr "未选择任何项目。"
+
+msgid "No Menu Items!"
+msgstr "没有菜单项！"
+
+msgid "No Menus!"
+msgstr "没有菜单！"
+
+msgid "none"
+msgstr "无"
+
+msgid "No Pages!"
+msgstr "没有页面！"
+
+msgid "No Paths!"
+msgstr "没有路径！"
+
+msgid "No Posts!"
+msgstr "没有文章！"
+
+msgid "No roles may use this format"
+msgstr "任何角色都不使用该格式"
+
+msgid "No Tags!"
+msgstr "没有标签！"
+
+msgid "Not available"
+msgstr "不可用"
+
+msgid "No Terms!"
+msgstr "没有术语！"
+
+msgid "Not implemented yet!"
+msgstr "尚未实现！"
+
+msgid "No Vocabulary!"
+msgstr "没有词汇表！"
+
+msgid "No Widgets in this region"
+msgstr "在这一区域没有部件"
+
+msgid "Off"
+msgstr "关"
+
+msgid "Offline Message"
+msgstr "离线消息"
+
+msgid "Older"
+msgstr "旧的"
+
+msgid "On"
+msgstr "开启"
+
+msgid "Only the listed pages"
+msgstr "只有列出的页面"
+
+msgid "Ooops!"
+msgstr "哎呦！"
+
+msgid "Operations"
+msgstr "操作"
+
+msgid "Order"
+msgstr "顺序"
+
+msgid "Page"
+msgstr "页面"
+
+msgid "Page: :title created"
+msgstr "页面：:title已创建"
+
+msgid "Page: :title deleted successful!"
+msgstr "页面：:title删除成功！"
+
+msgid "Page: :title updated"
+msgstr "页面：:title已更新"
+
+msgid "Page entries per page"
+msgstr "页面每页条目"
+
+msgid "Page List"
+msgstr "页面列表"
+
+msgid "Pages"
+msgstr "页面"
+
+msgid "Pages - Recent updates"
+msgstr "页面 - 最近更新"
+
+msgid "Page Settings"
+msgstr "页面设置"
+
+msgid "Page Settings updated!"
+msgstr "页面设置更新！"
+
+msgid "Page specific settings, default status, tags, comments etc."
+msgstr "特定页面的设置，默认状态，标签，评论等等。"
+
+msgid "Page Statistics"
+msgstr "页面统计"
+
+msgid "Parent:"
+msgstr "父级："
+
+msgid "Pass"
+msgstr "通过"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "password: :password"
+msgstr "密码：:password"
+
+msgid "Path"
+msgstr "路径"
+
+msgid "Path Aliases"
+msgstr "路径别名"
+
+msgid "PCRE UTF-8"
+msgstr "PCRE UTF-8"
+
+msgid "Pending"
+msgstr "待定"
+
+msgid "Pending Comments"
+msgstr "待定的评论"
+
+msgid "Permalink: %slug"
+msgstr "固定链接：%slug"
+
+msgid "PHP :reflection is either not loaded or not compiled in."
+msgstr "PHP :reflection未加载或未编译。"
+
+msgid "PHP internal call"
+msgstr "PHP内部调用"
+
+msgid "PHP MySQL"
+msgstr "PHP MySQL"
+
+msgid "PHP Version"
+msgstr "PHP版本"
+
+msgid "PHP Version "
+msgstr "PHP版本"
+
+msgid "Please fix the errors!"
+msgstr "请修复这些错误！"
+
+msgid "Please see the erros below!"
+msgstr "请检查下面的错误！"
+
+msgid "Post"
+msgstr "文章"
+
+msgid "Post: doesn't exists!"
+msgstr "邮编：不存在！"
+
+msgid "Post Comment"
+msgstr "发表评论"
+
+msgid "Posted In"
+msgstr "发表在"
+
+msgid "Posts"
+msgstr "文章"
+
+msgid "Posts:"
+msgstr "文章："
+
+msgid "Powered by :gleez"
+msgstr "技术支持:gleez"
+
+msgid "Power up your Gleez CMS by adding more modules! Each module provides new cool features."
+msgstr "通过添加更多的模块增强你的Gleez CMS！每个模块都提供了新的很酷的功能。"
+
+msgid "Previous"
+msgstr "前面的"
+
+msgid "Private"
+msgstr "私人"
+
+msgid "Promote this Post"
+msgstr "推广这篇文章"
+
+msgid "Promote to front page"
+msgstr "推广到头版"
+
+msgid "Publish"
+msgstr "发布"
+
+msgid "Publish the selected comments"
+msgstr "发布选中的评论"
+
+msgid "Read/Write"
+msgstr "读/写"
+
+msgid "Read/write"
+msgstr "读/写"
+
+msgid "Read More"
+msgstr "阅读更多内容"
+
+msgid "Read only"
+msgstr "只读"
+
+msgid "Recently added posts"
+msgstr "最近添加的文章"
+
+msgid "Reflection API"
+msgstr "映射API"
+
+msgid "Region"
+msgstr "区域"
+
+msgid "Region:"
+msgstr "区域："
+
+msgid "Remove stickiness"
+msgstr "移除置顶"
+
+msgid "Roles"
+msgstr "角色"
+
+msgid "Roles:"
+msgstr "角色"
+
+msgid "Saturday"
+msgstr "星期六"
+
+msgid "Save Changes"
+msgstr "保存更改"
+
+msgid "Save Filters"
+msgstr "保存过滤器"
+
+msgid "Save this information in a safe place, or change your :profile right away!"
+msgstr "将此信息保存在一个安全的地方，或立刻更改您的:profile！"
+
+msgid "Security"
+msgstr "安全"
+
+msgid "Security:"
+msgstr "安全："
+
+msgid "Server error"
+msgstr "服务器错误"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Show"
+msgstr "show"
+
+msgid "Show Submitted Info"
+msgstr "显示提交信息"
+
+msgid "Show Title:"
+msgstr "显示标题："
+
+msgid "Show widget on specific pages: "
+msgstr "特定页面上显示图标："
+
+msgid "SimpleXML Extension"
+msgstr "SimpleXML扩展"
+
+msgid "Site configuration updated!"
+msgstr "网站已配置更新！"
+
+msgid "Site running in maintenance mode!"
+msgstr "网站在维护模式下运行！"
+
+msgid "Site Theme"
+msgstr "网站主题"
+
+msgid "Site Title"
+msgstr "网站标题"
+
+msgid "Slug"
+msgstr "别名"
+
+msgid "Slug:"
+msgstr "别名："
+
+msgid "Slug: %slug"
+msgstr "别名：%slug"
+
+msgid "Some of your modules are out of date. <a href=\":upgrade_url\">"
+"                                        Upgrade now!</a>"
+msgstr "一些模块已经过时了。 <a href=\":upgrade_url\">现在升级！</ A>"
+
+msgid "Sorry, we're down for maintenance!"
+msgstr "很抱歉，我们正在停机维护！"
+
+msgid "Spam"
+msgstr "垃圾邮件"
+
+msgid "Spam Comments"
+msgstr "垃圾评论"
+
+msgid "Standard PHP Library (SPL)"
+msgstr "标准PHP库（SPL）"
+
+msgid "Start using Gleez"
+msgstr "开始使用Gleez"
+
+msgid "Statistics"
+msgstr "统计"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Status:"
+msgstr "状态:"
+
+msgid "Sticky this Post"
+msgstr "置顶这篇文章"
+
+msgid "Subject"
+msgstr "主题"
+
+msgid "Submit"
+msgstr "提交"
+
+msgid "Success!"
+msgstr "成功！"
+
+msgid "Sunday"
+msgstr "星期日"
+
+msgid "System Check"
+msgstr "系统检查"
+
+msgid "System Directory"
+msgstr "系统目录"
+
+msgid "Table Prefix"
+msgstr "表前缀"
+
+msgid "Tag \":tag\" Not Found"
+msgstr "标签“:tag”未找到"
+
+msgid "Tag: "
+msgstr "标签："
+
+msgid "Tag: %name saved successful!"
+msgstr "标签：%name保存成功！"
+
+msgid "Tag: :name deleted successful!"
+msgstr "标签：%name删除成功！"
+
+msgid "Tag: doesn't exists!"
+msgstr "标签：不存在！"
+
+msgid "Tagged with :tag"
+msgstr "已打上标签:tag"
+
+msgid "Tagline"
+msgstr "口号"
+
+msgid "Tags"
+msgstr "标签"
+
+msgid "Tags:"
+msgstr "标签："
+
+msgid "Taxonomy: :name deleted successful!"
+msgstr "分类：:name删除成功！"
+
+msgid "Taxonomy: doesn't exists!"
+msgstr "分类：不存在！"
+
+msgid "Taxonomy is for categorizing content. Terms are grouped into vocabularies. For example, a vocabulary called \"Fruit\" would contain the terms \"Apple\" and \"Banana\"."
+msgstr "分类系统就是进行内容的分类。术语被分组到词汇表。例如，一个叫“水果”的词汇将包含“苹果”和“香蕉”项目。"
+
+msgid "Term \":term\" Not Found"
+msgstr "术语“:term”未找到"
+
+msgid "Term: %name saved successful!"
+msgstr "期限：%name保存成功！"
+
+msgid "Term: :name deleted successful!"
+msgstr "期限：%name删除成功！"
+
+msgid "Term order could not be saved."
+msgstr "术语顺序无法保存。"
+
+msgid "Terms for %vocab"
+msgstr "%vocab的术语。"
+
+msgid "Terms order could not be saved."
+msgstr "术语顺序可能保存。"
+
+msgid "Terms order has been saved."
+msgstr "术语顺序已保存。"
+
+msgid "Text format "
+msgstr "文本格式"
+
+msgid "Text format:"
+msgstr "文本格式："
+
+msgid "Text Format doesn't exists!"
+msgstr "文本格式不存在！"
+
+msgid "Text formats"
+msgstr "文本格式"
+
+msgid "Text formats define the HTML tags, code, and other formatting that can be used when entering text. Improper text format configuration is a security risk. Text formats are presented on content editing pages in the order defined on this page. The first format available to a user will be selected by default."
+msgstr "文本格式定义在输入文本时可以使用的HTML标签，代码和其他格式。文本格式的配置不当是一个安全隐患。文本格式将以在本页定义的顺序呈现在内容编辑页面。用户默认将选择第一种格式。"
+
+msgid "The :cache_dir directory is not writable."
+msgstr ":cache_dir目录不可写。"
+
+msgid "The :cache_dir directory is writable."
+msgstr ":cache_dir目录可写。"
+
+msgid "The :config_dir directory is writable."
+msgstr ":config_dir目录可写。"
+
+msgid "The :ctype extension is not enabled."
+msgstr ":ctype扩展未启用。"
+
+msgid "The :filer extension is either not loaded or not compiled in."
+msgstr ":filer扩展名未加载或未编译。"
+
+msgid "The :iconv extension is not loaded."
+msgstr ":iconv扩展未加载。"
+
+msgid "The :json extension is not loaded."
+msgstr ":json扩展未加载。"
+
+msgid "The :mbstring extension is overloading PHP's native string functions."
+msgstr ":mbstring扩展重载了PHP的原生字符串函数。"
+
+msgid "The :simlexml extension is not loaded."
+msgstr ":simlexml扩展未加载。"
+
+msgid "The :spl extension is either not loaded or not compiled in."
+msgstr ":spl扩展名未加载或未编译。"
+
+msgid "The configured :application directory does not exist or does not contain required files."
+msgstr "配置的:application目录不存在，或不包含所需的文件。"
+
+msgid "The configured :modules directory does not exist or does not contain required files."
+msgstr "配置的:modules目录不存在，或不包含所需的文件。"
+
+msgid "The configured :system directory does not exist or does not contain required files."
+msgstr "配置的:system目录中不存在或不包含所需的文件。"
+
+msgid "The date :param1 does not exist."
+msgstr "日期:param1不存在。"
+
+msgid "The delete has been performed!"
+msgstr "删除完毕！"
+
+msgid "The directory :config_dir does not exist or is not writable. We're having trouble creating a place for your CMS. Can you help? Please create a directory called \"config\" using :mkdir in your gleez directory, then run :chmod. That should fix it."
+msgstr "目录:config_dir不存在或不可写。我们为您的CMS创建一个目录时遇到麻烦。您能帮忙吗？请在您的gleez目录使用:mkdir创建一个名叫“config”的目录，然后运行命令:chmod。这样应该可以修复该问题。"
+
+msgid "The email :param1 you specified is not valid."
+msgstr "您指定的电子邮件:param1无效。"
+
+msgid "The main parameters of the site set up here."
+msgstr "该网站的主要参数在这里设置。"
+
+msgid "The Menu wizard provides an interface for managing menus. A menu is a hierarchical collection of links, which can be within or external to the site, generally used for navigation."
+msgstr "菜单向导提供了一个管理菜单的界面。一个菜单是一个层次结构的链接集合，它可以是内部或外部的网站，一般用于导航。"
+
+msgid "The name :param1 does not exist."
+msgstr "姓名:param1不存在。"
+
+msgid "The name :param1 you used belongs to a registered user."
+msgstr "您使用姓名:param1属于注册用户。"
+
+msgid "The post id :param1 you specified is not valid."
+msgstr "指定的文章ID:param1无效。"
+
+msgid "The publish date :param1 does not exist."
+msgstr "发布日期:param1不存在。"
+
+msgid "The publish date :param1 you specified is not valid."
+msgstr "指定的发布日期:param1无效。"
+
+msgid "There's a lot of reasons why this page is <span class=\"error_type\">403</span>."
+msgstr "有很多原因导致这个页面是<span class=\"error_type\">403</span>."
+
+msgid "There's a lot of reasons why this page is <span class=\"error_type\">404</span>."
+msgstr "有很多原因导致这个页面是<span class=\"error_type\">404</span>."
+
+msgid "There are no Comments."
+msgstr "没有评论。"
+
+msgid "There are no comments that have been published."
+msgstr "没有已发布的评论。"
+
+msgid "There are no Menu Items."
+msgstr "没有菜单项。"
+
+msgid "There are no Menus."
+msgstr "没有菜单。"
+
+msgid "There are no Pages that have been published."
+msgstr "没有已发布的页面。"
+
+msgid "There are no Paths."
+msgstr "没有路径。"
+
+msgid "There are no Posts that have been published."
+msgstr "没有已发布的文章。"
+
+msgid "There are no Tags."
+msgstr "没有标签。"
+
+msgid "There are no Terms."
+msgstr "没有术语。"
+
+msgid "The requested URL <span>(:url)</span> could not be found!"
+msgstr "所请求的URL<span>(:url)</span>找不到！"
+
+msgid "The security answer was wrong."
+msgstr "安全的答案错误。"
+
+msgid "The security field can't be empty."
+msgstr "安全字段不可以是空的。"
+
+msgid "The tags module allows you to create free-tagging for everything, to define the various properties of your content, for example 'Countries' or 'Colors'."
+msgstr "标签模块允许你为一切创建自由标签，来定义你的内容的各种属性，例如“国家”或“颜色”。"
+
+msgid "The update has been performed!"
+msgstr "更新完毕！"
+
+msgid "The update has not been performed!"
+msgstr "更新没有执行！"
+
+msgid "The username :param1 does not exist."
+msgstr "用户名:param1不存在。"
+
+msgid "This action cannot be undone."
+msgstr "此操作无法撤销。"
+
+msgid "This form has altered. Please try submitting it again."
+msgstr "表单已经改变。请尝试重新提交。"
+
+msgid "This form has expired. Please try submitting it again."
+msgstr "表单已过期。请尝试重新提交。"
+
+msgid "This page provides interface for assigning a widget to a region, and for controlling the order of widgets within regions. Click the configure link next to each widget to configure its specific title and visibility settings."
+msgstr "这个界面用来为区域分配一个部件和控制区域内的部件顺序。单击插件旁的配置链接，来设置其特定的标题和可见性。"
+
+msgid "Threaded list - collapsed"
+msgstr "主题式列表 - 折叠"
+
+msgid "Threaded list - expanded"
+msgstr "主题式列表 - 展开"
+
+msgid "Thursday"
+msgstr "星期四"
+
+msgid "Time Format"
+msgstr "时间格式"
+
+msgid "Time Zone"
+msgstr "时区"
+
+msgid "Title"
+msgstr "标题"
+
+msgid "Title:"
+msgstr "标题："
+
+msgid "Total:"
+msgstr "总数："
+
+msgid "Tuesday"
+msgstr "星期二"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Type:"
+msgstr "类型："
+
+msgid "Unable to Delete widgets, Error :error"
+msgstr "无法删除部件，错误：:error"
+
+msgid "Unavailable"
+msgstr "不可用"
+
+msgid "Unpublish"
+msgstr "未发布"
+
+msgid "Unpublish the selected comments"
+msgstr "取消发布所选择的评论"
+
+msgid "Updated"
+msgstr "更新"
+
+msgid "URI Determination"
+msgstr "URI检测"
+
+msgid "User"
+msgstr "用户"
+
+msgid "username: :username"
+msgstr "用户名：:username"
+
+msgid "UTC :value"
+msgstr "UTC:value"
+
+msgid "Version"
+msgstr "版本"
+
+msgid "View"
+msgstr "查阅"
+
+msgid "View, edit, and delete your site's comments."
+msgstr "查看，编辑，删除你网站的评论。"
+
+msgid "View, edit, and delete your site's pages."
+msgstr "查看，编辑和删除您网站的页面。"
+
+msgid "Vocab: %name saved successful!"
+msgstr "词汇表：%name保存成功！"
+
+msgid "Vocab: doesn't exists!"
+msgstr "在搜索结果：不存在！"
+
+msgid "Vocabulary"
+msgstr "词汇表"
+
+msgid "Vocabulary: doesn't exists!"
+msgstr "词汇：不存在！"
+
+msgid "We've created an account for you to use:"
+msgstr "我们已经创建了一个帐户供您使用："
+
+msgid "Webserver "
+msgstr "网站服务器"
+
+msgid "Website"
+msgstr "网站"
+
+msgid "Website address"
+msgstr "网站地址"
+
+msgid "Wednesday"
+msgstr "星期三"
+
+msgid "Week Starts On"
+msgstr "一周开始于"
+
+msgid "Weight"
+msgstr "权重"
+
+msgid "welcome"
+msgstr "欢迎"
+
+msgid "Welcome"
+msgstr "欢迎"
+
+msgid "Welcome back, :user"
+msgstr "欢迎回来，:user"
+
+msgid "Welcome to admin"
+msgstr "欢迎来到后台管理"
+
+msgid "Welcome to the administration section. Here you may control how your site functions."
+msgstr "欢迎来到管理区域。在这里你可以控制您网站的功能。"
+
+msgid "Whops, I think we are lost...!"
+msgstr "哎呀，我认为我们迷路了...！"
+
+msgid "Widget: :title deleted successful!"
+msgstr "部件：:title删除成功！"
+
+msgid "Widgets"
+msgstr "部件"
+
+msgid "Wrong username or password"
+msgstr "用户名或密码错误"
+
+msgid "Yes"
+msgstr "确认"
+
+msgid "You must provide a date."
+msgstr "你必须提供一个日期。"
+
+msgid "You must provide a name."
+msgstr "你必须提供一个姓名。"
+
+msgid "You must provide a post id."
+msgstr "你必须提供一个帖子的ID。"
+
+msgid "You must provide a publish date."
+msgstr "你必须提供一个发布日期。"
+
+msgid "You must provide a username."
+msgstr "您必须提供一个用户名。"
+
+msgid "You must provide a valid email."
+msgstr "您必须提供一个有效的电子邮件。"
+
+msgid "You must select atleast one category."
+msgstr "您必须至少选择一个类别。"
+
+msgid "Your comment has been posted."
+msgstr "您的评论已发布。"
+
+msgid "Your comment has been queued for review by"
+"							    site administrators and will be published after approval."
+msgstr "您的评论已排队等待网站管理员审查和批准后公布。"
+
+msgid "Your Gleez install is complete!"
+msgstr "您的Gleez安装完成！"
+
