@@ -1,23 +1,20 @@
 <?php
 define('SYSPATH', '../gleez/');
-define('I18N_FILE', 'zh.php');
+define('I18N_DICTONARY', 'i18n/dict.php');
+define('I18N_DICTONARY_PO', 'i18n/dict.po');
 
-foreach (new RecursiveIteratorIterator (new RecursiveDirectoryIterator ('i18n')) as $file)
+$dict = load_dictonary();
+
+$po = php2po($dict);
+
+file_put_contents(I18N_DICTONARY_PO, $po);
+
+// Functions
+function php2po (Array $array)
 {
-  if ($file->getExtension() === 'php') {
-    $po_file = sprintf("%s/%s.po", $file->getPath(), $file->getBasename('.php'));
-
-    $po = php2po($file->getPathname());
-    file_put_contents($po_file, $po);
-  }
-}
-
-function php2po ($file)
-{
-  $dict = include $file;
   $po = '';
 
-  foreach ($dict as $untranslated => $translated) {
+  foreach ($array as $untranslated => $translated) {
     $po .= sprintf("msgid \"%s\"\nmsgstr \"%s\"\n\n",
       po_encode($untranslated),
       po_encode($translated)
@@ -32,7 +29,7 @@ function po_encode ($str)
   $str = preg_replace(array(
     '/(?=")/',
     '/\\\\(?=\')/', 
-    '/[\r\n]+/',
+    '/\n/',
   ), array(
     '\\',
     '',
@@ -41,3 +38,12 @@ function po_encode ($str)
 
   return $str;
 }
+
+function load_dictonary()
+{
+  if (file_exists(I18N_DICTONARY)) {
+    return include I18N_DICTONARY;
+  }
+  return array();
+}
+
