@@ -11,7 +11,7 @@ $i18n = array();
 
 $dict = load_dictonary();
 
-get_from_module('gleez');
+get_from_module('gleez', TRUE);
 get_from_module('user');
 
 if ($counter_item_untranslated) {
@@ -19,7 +19,7 @@ if ($counter_item_untranslated) {
 }
 
 // Functions
-function get_from_module($module)
+function get_from_module($module, $is_main = FALSE)
 {
   global $counter_file, $counter_item_new, $counter_item_untranslated, $i18n;
 
@@ -38,6 +38,10 @@ function get_from_module($module)
   message(SYSPATH."modules/$module/messages");
   walk(SYSPATH."modules/$module/views");
   walk(SYSPATH."modules/$module/classes");
+
+  if ($is_main) {
+    walk(SYSPATH."themes");
+  }
 
   $count_now = count($i18n);
 
